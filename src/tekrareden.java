@@ -1,4 +1,4 @@
-public class tekrareden {
+public class TekrarEden {
     public static void main(String[] args) {
         int sayi[] = {12, 28, 75, 44, 28, 49};
 
